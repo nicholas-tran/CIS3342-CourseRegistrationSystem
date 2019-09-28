@@ -1,1 +1,1 @@
-# CIS3342-Project3-CourseRegistrationSystem-
+# CIS3342-Project3-CourseRegistrationSystem
